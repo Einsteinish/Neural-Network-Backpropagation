@@ -14,6 +14,10 @@ Here's a detailed walkthrough of a simple neural network learning $\( y = x_1 + 
 5. **Learning Rate** $\( \eta = 0.1 \)$
 6. **No Biases**
 
+
+![Backpropagation Diagram](images/backpropagation-diagram.png)
+
+
 #### Activation Function
 The sigmoid function:
 

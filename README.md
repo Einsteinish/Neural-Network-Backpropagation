@@ -351,4 +351,8 @@ $$
 
 This represents how much the loss changes with respect to the weight $\( w_{h1} \)$, which allows us to update the weight and reduce the error during training.
 
+---
 
+[Watch the Youtube video here](https://youtu.be/q-GBQTs0fsE)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/q-GBQTs0fsE/0.jpg)](https://www.youtube.com/watch?v=q-GBQTs0fsE)
